@@ -56,7 +56,12 @@
     "extendRev": 50, 
     "inactiveTags": [], 
     "media_files": [
-        "ohmslaw.gif"
+        "latex-c6a3c61a56a551beafad84fd0d6f62e1a96ece32.png", 
+        "latex-45c3e081197c8cea3e6962d9f502ccb74813c9f4.png", 
+        "latex-a2305f110ac98963e69970bde7d71a0ec2e0a71f.png", 
+        "ohmslaw.gif", 
+        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
+        "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png"
     ], 
     "name": "ETG", 
     "note_models": [
@@ -85,7 +90,7 @@
                 }
             ], 
             "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage[ngerman]{babel}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
             "name": "Basic", 
             "req": [
                 [
@@ -219,7 +224,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Was ist elektrischem Strom?", 
+                "Was ist elektrischer Strom?", 
                 "Die gerichtete Bewegung von Ladung"
             ], 
             "flags": 0, 
@@ -1005,14 +1010,15 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Formel für Kraft?", 
-                "F = m * a<div>Kraft ist Masse mal Beschleunigung</div>"
+                "[$]F = m * a[/$]<div><br /><div>Kraft ist Masse mal Beschleunigung</div></div>"
             ], 
             "flags": 0, 
             "guid": "Gq^~G524zz", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter1", 
-                "formula"
+                "formula", 
+                "latex"
             ]
         }, 
         {
@@ -1278,7 +1284,7 @@
             "data": "", 
             "fields": [
                 "Wie läßt sich bei bekanntem spezifischen Widerstand die Leitfähigkeit bestimmen?", 
-                "[$]Leitfähigkeit = \\frac{1}{spezifischer Widerstand}[/$]"
+                "[$]Leitf\\ddot{a}higkeit = \\frac{1}{spezifischer\\ Widerstand}[/$]"
             ], 
             "flags": 0, 
             "guid": "x{!p*e6>d", 
@@ -1364,7 +1370,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet das Ohmsche Gesetz für den Widerstand?", 
-                "[$]R = \\frac{U}{I}[/$]<div><div>[$]Widerstand = \\frac{Spannung}{Stromstärke}[/$]</div></div><div>[$]\\Omega = \\frac{V}{A}[/$]</div><div><br /></div><div><img src=\"ohmslaw.gif\" /></div>"
+                "[$]R = \\frac{U}{I}[/$]<div><br /><div><div>[$]Widerstand\\ (\\Omega) = \\frac{Spannung\\ (V)}{Stromst\\ddot{a}rke\\ (A)}[/$]</div></div><div><br /></div><div><img src=\"ohmslaw.gif\" /></div></div>"
             ], 
             "flags": 0, 
             "guid": "D_}&%_G3HD", 
