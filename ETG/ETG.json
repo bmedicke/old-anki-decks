@@ -678,7 +678,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Einheit der Energie oder Arbeit?", 
-                "J für Joule"
+                "J für Joule\n<hr />\ncal für calories"
             ], 
             "flags": 0, 
             "guid": "n=X4:H6wsq", 
@@ -738,7 +738,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Einheit des elektrischen Widerstands?", 
-                "Ω (großes Omega) für Ohm"
+                "Ω (großes Omega) für Ohm"
             ], 
             "flags": 0, 
             "guid": "lj3Q0;BTu1", 
@@ -1010,14 +1010,13 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Formel für Kraft?", 
-                "[$]F = m * a[/$]<div><br /><div>Kraft ist Masse mal Beschleunigung</div></div>"
+                "[$]F = m * a[/$]<div><div>Kraft ist Masse mal Beschleunigung</div></div>"
             ], 
             "flags": 0, 
             "guid": "Gq^~G524zz", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter1", 
-                "formula", 
                 "latex"
             ]
         }, 
@@ -1095,7 +1094,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie läßt sich zwischen zwei Punkten mit bekanntem Potential die Spannung bestimmen?", 
+                "Wie läßt sich zwischen zwei Punkten mit bekanntem Potential die Spannung bestimmen?", 
                 "Masse hat das Bezugspotential 0 V<div>Potential zweier Punkte ist die Differenz der Potentiale. (Richtung ist entscheidend)</div><div>Potentiale haben immer ein Vorzeichen</div>"
             ], 
             "flags": 0, 
@@ -1109,7 +1108,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie läßt sie sich die positive Spannungsrichtung darstellen?", 
+                "Wie läßt sie sich die positive Spannungsrichtung darstellen?", 
                 "Pfeil vom höheren Potential (z.B. Plus-Pol) zum niedrigeren<br />"
             ], 
             "flags": 0, 
@@ -1138,7 +1137,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie läßt sich der elektrische Widerstand erklären?", 
+                "Wie läßt sich der elektrische Widerstand erklären?", 
                 "Die Bewegung von Ladungsträgern wird durch Zusammenstöße mit Atomen des Leiters gebremst"
             ], 
             "flags": 0, 
@@ -1211,7 +1210,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie ändert sich der Widerstand einer Leitung, wenn man den Querschnitt halbiert?", 
+                "Wie ändert sich der Widerstand einer Leitung, wenn man den Querschnitt halbiert?", 
                 "Widerstand verdoppelt sich"
             ], 
             "flags": 0, 
@@ -1225,7 +1224,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie ändert sich der Widerstand einer Leitung, wenn man die Länge verdreifacht?", 
+                "Wie ändert sich der Widerstand einer Leitung, wenn man die Länge verdreifacht?", 
                 "Widerstand verdreifacht sich"
             ], 
             "flags": 0, 
@@ -1240,12 +1239,13 @@
             "data": "", 
             "fields": [
                 "Welcher Zusammenhang besteht zwischen Leitwert und Widerstand?", 
-                "<div>Kehrwerte voneinander</div>Leiter mit <b>kleinen Widerstand</b> leitet elektrischen Strom gut und hat daher einen <b>guten Leitwert</b>"
+                "<div>Kehrwerte voneinander</div>\n<hr />\nLeiter mit <b>kleinen Widerstand</b> leitet elektrischen Strom gut und hat daher einen <b>guten Leitwert</b>"
             ], 
             "flags": 0, 
             "guid": "z/Zv[O*]gs", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
+                "TODO", 
                 "chapter1"
             ]
         }, 
@@ -1283,7 +1283,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie läßt sich bei bekanntem spezifischen Widerstand die Leitfähigkeit bestimmen?", 
+                "Wie läßt sich bei bekanntem spezifischen Widerstand die Leitfähigkeit bestimmen?", 
                 "[$]Leitf\\ddot{a}higkeit = \\frac{1}{spezifischer\\ Widerstand}[/$]"
             ], 
             "flags": 0, 
@@ -1291,7 +1291,6 @@
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter1", 
-                "formula", 
                 "latex"
             ]
         }, 
@@ -1341,7 +1340,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Um wieviel Prozent nimmt im Durchschnitt der Widerstand reiner Metalle bei Temperaturerhöhung um 1 K zu?", 
+                "Um wieviel Prozent nimmt im Durchschnitt der Widerstand reiner Metalle bei Temperaturerhöhung um 1 K zu?", 
                 "0.4 %"
             ], 
             "flags": 0, 
@@ -1370,14 +1369,13 @@
             "data": "", 
             "fields": [
                 "Wie lautet das Ohmsche Gesetz für den Widerstand?", 
-                "[$]R = \\frac{U}{I}[/$]<div><br /><div><div>[$]Widerstand\\ (\\Omega) = \\frac{Spannung\\ (V)}{Stromst\\ddot{a}rke\\ (A)}[/$]</div></div><div><br /></div><div><img src=\"ohmslaw.gif\" /></div></div>"
+                "[$]R = \\frac{U}{I}[/$]<div><br /><div><div>[$]Widerstand\\ (\\Omega) = \\frac{Spannung\\ (V)}{Stromst\\ddot{a}rke\\ (A)}[/$]</div></div><div><br /></div>\n<hr /><div><img src=\"ohmslaw.gif\" /></div></div>"
             ], 
             "flags": 0, 
             "guid": "D_}&%_G3HD", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "class", 
-                "formula", 
                 "latex"
             ]
         }
