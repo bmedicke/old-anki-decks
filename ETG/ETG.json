@@ -1,0 +1,1379 @@
+{
+    "__type__": "Deck", 
+    "activeTags": [], 
+    "children": [], 
+    "crowdanki_uuid": "bc86ae14-b707-11e7-82de-d49a20d0d551", 
+    "deck_config_uuid": "bc8d2638-b707-11e7-92be-d49a20d0d551", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "bc8d2638-b707-11e7-92be-d49a20d0d551", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    3, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 20, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "inactiveTags": [], 
+    "media_files": [
+        "ohmslaw.gif"
+    ], 
+    "name": "ETG", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "class", 
+                "latex"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Woraus setzt sich ein Atom zusammen?", 
+                "Elektronen in der Hülle\n<div>Protonen und Neutronen im Kern</div>"
+            ], 
+            "flags": 0, 
+            "guid": "K/8@Y%TK?w", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Valenzelektronen?", 
+                "Elektronen in der äußeren Schale aka. Außenelektronen\n<div>Können sich an Bindungen (Valenzen) zwischen Atomen beiteiligen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "n39hYi%p:=", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein Ladungsträger?", 
+                "Ein mit Ladung behaftetes Teilchen (Elektron, Proton, Ion)"
+            ], 
+            "flags": 0, 
+            "guid": "Jc6Rw)ToTH", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wodurch ist ein neutrales Atom gekennzeichnet?", 
+                "Es besitzt gleich viele Elektronen und Protonen"
+            ], 
+            "flags": 0, 
+            "guid": "HANY.g!sTb", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter Elementarladung", 
+                "Die kleinste vorkommende Ladung (Ladung eines Elektrons)"
+            ], 
+            "flags": 0, 
+            "guid": "w~kx>@cDVV", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie wirken Ladungen aufeinander?", 
+                "Es gibt positive und negative Ladungen<div>Gleiche stoßen sich ab, unterschiedliche ziehen sich an</div>"
+            ], 
+            "flags": 0, 
+            "guid": "g#->j%Y8-]", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wann spricht man von Ionen?", 
+                "Bei einer unterschiedlichen Anzahl an Elektronen und Protonen"
+            ], 
+            "flags": 0, 
+            "guid": "wl{(a;c5KW", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist elektrischem Strom?", 
+                "Die gerichtete Bewegung von Ladung"
+            ], 
+            "flags": 0, 
+            "guid": "k$no<6BaL{", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welche Ladungsträger bestimmen den Strom in Metallen?", 
+                "Elektronen"
+            ], 
+            "flags": 0, 
+            "guid": "pSDMue^O5,", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welche Ladungsträger bestimmen den Strom in Elektrolyten?", 
+                "Ionen"
+            ], 
+            "flags": 0, 
+            "guid": "k3%9&3]nle", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter freien Elektronen?", 
+                "Relativ frei bewegliche Elektronenwolke<div>Bewegt sich im Raumgitter von Ionen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "xoyDd>E4Bw", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was beeinflussen Valenzelektronen?", 
+                "<div>Das chemisches und elektrisches Verhalten</div>"
+            ], 
+            "flags": 0, 
+            "guid": "uL;{fbi$Qg", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie hoch ist die Impulsgeschwindigkeit?", 
+                "70-80% Lichtgeschwindigkeit"
+            ], 
+            "flags": 0, 
+            "guid": "slev+tWIT|", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie hoch ist die Lichtgeschwindigkeit?", 
+                "300.000 km/s"
+            ], 
+            "flags": 0, 
+            "guid": "k[*a==oN@I", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie hoch ist die Elektronengeschwindigkeit?", 
+                "3 mm/s"
+            ], 
+            "flags": 0, 
+            "guid": "ogO!_NOukI", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist der Unterschied zwischen elektrischen Leitern, Nichtleitern und Halbleiter?", 
+                "Leiter: viele Ladungsträger<div>Nichtleiter: wenige Ladungsträger</div><div>Halbleiter: Anzahl an Ladungsträgern abhängig von äußeren Einflüssen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "N8r|7!AfZ{", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Beispiele für Leiterwerkkstoffe?", 
+                "Kupfer, Silber, Gold, Eisen"
+            ], 
+            "flags": 0, 
+            "guid": "Fd&2adlaU!", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Beispiele für Isolierstoffe?", 
+                "destilliertes Wasser, Öl, Prozellan, Papier"
+            ], 
+            "flags": 0, 
+            "guid": "tms%3o5W`L", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Woraus besteht ein elektrischer Stromkreis?", 
+                "Spannungserzeuger, Verbraucher und Leitern"
+            ], 
+            "flags": 0, 
+            "guid": "HohfWvwuBu", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ist die technische Stromrichtung festgelegt?", 
+                "Plus- zu Minuspol"
+            ], 
+            "flags": 0, 
+            "guid": "vWAcQ+=o@O", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "direction"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der elektrischen Stromstärke?", 
+                "<div>A für Ampere</div>"
+            ], 
+            "flags": 0, 
+            "guid": "FzqiD.wLDg", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der elektrischen Stromstärke?", 
+                "<i>I</i> (großes i)"
+            ], 
+            "flags": 0, 
+            "guid": "q5wRrB`$1Y", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der elektrischen Spannung?", 
+                "V für Volt"
+            ], 
+            "flags": 0, 
+            "guid": "rPk<8{I^Zw", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der elektrischen Spannung?", 
+                "<i>U</i>"
+            ], 
+            "flags": 0, 
+            "guid": "GFIr5y|;9D", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Länge?", 
+                "m für Meter"
+            ], 
+            "flags": 0, 
+            "guid": "CFn$cvC5:w", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Länge?", 
+                "<i>l</i> (kleines L) für length"
+            ], 
+            "flags": 0, 
+            "guid": "H)`TW40$t&", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Masse?", 
+                "kg für Kilogramm"
+            ], 
+            "flags": 0, 
+            "guid": "GRS[o3]*X6", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Masse?", 
+                "<i>m</i> für mass"
+            ], 
+            "flags": 0, 
+            "guid": "P?_sErA-ra", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Zeit?", 
+                "s für second"
+            ], 
+            "flags": 0, 
+            "guid": "Hv5A~K2;RW", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Zeit?", 
+                "<i>t</i> für time"
+            ], 
+            "flags": 0, 
+            "guid": "nCW.KEt5Ly", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der thermodynamischen Temperatur?", 
+                "K für Kelvin<div>℃ für Grad Celsius</div>"
+            ], 
+            "flags": 0, 
+            "guid": "O4#5;qJok(", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der thermodynamischen Temperatur?", 
+                "<i>T</i> für temperature"
+            ], 
+            "flags": 0, 
+            "guid": "xy0;^au{lc", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Stoffmenge?", 
+                "mol für Mol"
+            ], 
+            "flags": 0, 
+            "guid": "M|Z</:*DJ:", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Stoffmenge?", 
+                "<i>v</i> oder <i>n</i>"
+            ], 
+            "flags": 0, 
+            "guid": "hLR_)9?E=&", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Lichtstärke?", 
+                "cd für Candela"
+            ], 
+            "flags": 0, 
+            "guid": "hR8D/Ci,.>", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Lichstärke?", 
+                "<i>I</i><sub style=\"font-style: italic; \">v</sub> (großes I, kleines subscript v)"
+            ], 
+            "flags": 0, 
+            "guid": "Ov<XrbB4#(", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Kraft?", 
+                "N für Newton"
+            ], 
+            "flags": 0, 
+            "guid": "e_.*NH~=+7", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Kraft?", 
+                "<i>F</i> für force"
+            ], 
+            "flags": 0, 
+            "guid": "elg[KDN8TM", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Energie oder Arbeit?", 
+                "J für Joule"
+            ], 
+            "flags": 0, 
+            "guid": "n=X4:H6wsq", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Energie oder Arbeit?", 
+                "<i>W</i> für work"
+            ], 
+            "flags": 0, 
+            "guid": "I8!>pSuE{C", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der Leistung?", 
+                "W für Watt"
+            ], 
+            "flags": 0, 
+            "guid": "cjKKefr|<R", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der Leistung?", 
+                "<i>P</i> für power"
+            ], 
+            "flags": 0, 
+            "guid": "Aqu,K.}_w-", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit des elektrischen Widerstands?", 
+                "Ω (großes Omega) für Ohm"
+            ], 
+            "flags": 0, 
+            "guid": "lj3Q0;BTu1", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe des elektrischen Widerstands?", 
+                "<i>R</i> für resistance"
+            ], 
+            "flags": 0, 
+            "guid": "f&bEqL;Zwn", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der elektrischen Ladung?", 
+                "C für Coulomb"
+            ], 
+            "flags": 0, 
+            "guid": "ifL0u(,Zu[", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der elektrischen Ladung?", 
+                "<i>Q</i>"
+            ], 
+            "flags": 0, 
+            "guid": "DIRI*h]GtQ", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit der elektrischen Kapazität?", 
+                "F für Farad"
+            ], 
+            "flags": 0, 
+            "guid": "yqB`a2k7uW", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe der elektrischen Kapazität?", 
+                "<i>C</i> für capacity"
+            ], 
+            "flags": 0, 
+            "guid": "kfzEob<FOU", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welche sind die sieben Basisgrößen?", 
+                "Länge, Masse, Zeit, Elektrische Stromstärke, Thermodynamische Temperatur, Stoffmenge, Lichtstärke"
+            ], 
+            "flags": 0, 
+            "guid": "iQM5BpU;}H", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter15"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum werden Leitungen nach der Stromdichte ausgelegt?", 
+                "Da die Hitzeentwicklung unter anderem davon abhängt"
+            ], 
+            "flags": 0, 
+            "guid": "GDsrPP63g/", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wodurch zeichnet sich Gleichstrom aus?", 
+                "<div>Elektronen bewegen sich immer in die selbe Richtung</div>"
+            ], 
+            "flags": 0, 
+            "guid": "g8{{Heh(Z%", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wodurch zeichnet sich Wechselstrom aus?", 
+                "Stromstärke und Fließrichtung ändert sich"
+            ], 
+            "flags": 0, 
+            "guid": "C;VQj<3guH", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Wirkungen des elektrischen Stromes?", 
+                "Wärme und Licht<div>Magnetische und chemische Wirkung</div><div>Wirkung auf Lebewesen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "E[QC/~#,Vh", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: Wärmeentwicklung des Stroms", 
+                "Heizung"
+            ], 
+            "flags": 0, 
+            "guid": "k}J>HN#5_4", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: Lichtwirkung des Stroms", 
+                "Glühbirne<div>Leuchtstoffröhre</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Cgy63*fZE9", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: magnetische Wirkung des Stroms", 
+                "Elektromotor<div>Lautsprecher</div><div>Mikrofon</div>"
+            ], 
+            "flags": 0, 
+            "guid": "k-e=(Ix#XV", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: Wirkung des Stroms auf Lebewesen", 
+                "Elektroschocks"
+            ], 
+            "flags": 0, 
+            "guid": "GmUG[sy#*L", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: Chemische Wirkung des Stroms", 
+                "Elektrolyse<div>Galvanisieren (electroplating)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "xlNb7HO/{n", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein Lienienschaubild?", 
+                "Strom-Zeit-Schaubild<div>Darstellen der Stromstärke im Verlauf der Zeit</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Jh&I!@Z6>%", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter SI-Einheiten?", 
+                "Einheiten physikalischer Größen des internationalen Einheitensystems"
+            ], 
+            "flags": 0, 
+            "guid": "GhYgHX.M1/", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist der Vorteil von SI-Einheiten?", 
+                "Beim Rechnen mit SI Einheiten ergeben sich 1-basierte Einheiten"
+            ], 
+            "flags": 0, 
+            "guid": "sf!A@p+@#p", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel für Kraft?", 
+                "F = m * a<div>Kraft ist Masse mal Beschleunigung</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Gq^~G524zz", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "formula"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ist der elektrischen Widerstand definiert?", 
+                "1 Ohm ist der Widerstand bei dem zwischen zwei Punkten eines Leiters bei 1 Volt Spannung 1 Ampere Stärke fließt"
+            ], 
+            "flags": 0, 
+            "guid": "Io7ff9[5S/", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie läßt sich die Spannung erklären?", 
+                "Wie eine Pumpe, die Elektronen auf einer Seite drückt und auf der anderen absaugt<div>Spannung hat immer eine Richtung</div>"
+            ], 
+            "flags": 0, 
+            "guid": "MUMM8B+*Id", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist die Quellenspannung?", 
+                "<div>Spannung, die in der Spannungsquelle erzeugt wird</div><div>aka. Urspannung</div><div>Formelzeichen <i>U<sub>q</sub></i></div>"
+            ], 
+            "flags": 0, 
+            "guid": "LKp73P:v-U", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist der Spannungsfall?", 
+                "<div>Die Spannung die an den Verbraucher verbraucht wird</div>aka. Spannungsabfall und allgemein Spannung<div>Formelzeichen <i>U</i></div>"
+            ], 
+            "flags": 0, 
+            "guid": "irJ&6.d#2S", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter dem elektrischem Potential?", 
+                "Spannung zwischen einem elektrischen Schaltkreis und einem festen Bezugpunkt. z.B. Masse<div><div>Formelzeichen <i>φ</i> (kleines Phi)</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "ho@KExwv~&", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie läßt sich zwischen zwei Punkten mit bekanntem Potential die Spannung bestimmen?", 
+                "Masse hat das Bezugspotential 0 V<div>Potential zweier Punkte ist die Differenz der Potentiale. (Richtung ist entscheidend)</div><div>Potentiale haben immer ein Vorzeichen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "mK;i+AN%y4", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie läßt sie sich die positive Spannungsrichtung darstellen?", 
+                "Pfeil vom höheren Potential (z.B. Plus-Pol) zum niedrigeren<br />"
+            ], 
+            "flags": 0, 
+            "guid": "y!*8|q6l?8", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie Bewegen sich die Elektronen?", 
+                "<div>Minus- zu Pluspol</div>"
+            ], 
+            "flags": 0, 
+            "guid": "s5mex[&G/H", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "direction"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie läßt sich der elektrische Widerstand erklären?", 
+                "Die Bewegung von Ladungsträgern wird durch Zusammenstöße mit Atomen des Leiters gebremst"
+            ], 
+            "flags": 0, 
+            "guid": "if=)N%FusU", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wann hat ein Leiter den Widerstand 1Ω?", 
+                "Wenn durch einen Leiter bei der Spannung 1 V ein Strom der Stärke 1 A fließt"
+            ], 
+            "flags": 0, 
+            "guid": "HG$V^mU.#K", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter spezifischem Widerstand?", 
+                "Widerstand bei:<div>Länge 1 m<div>Leiterdurchmesser 1 mm<sup>2</sup></div><div>Tempertatur 20 ℃</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "FYxq[^Pa!#", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Einheit des spezifischen Widerstandes?", 
+                "<div>[$]\\frac{\\Omega * mm^{2}}{m}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "sJtz)[_|fE", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "latex", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe des spezifischen Widerstandes?", 
+                "<i>ϱ</i> (kleines Rho)"
+            ], 
+            "flags": 0, 
+            "guid": "zOGqD6xiJ1", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ändert sich der Widerstand einer Leitung, wenn man den Querschnitt halbiert?", 
+                "Widerstand verdoppelt sich"
+            ], 
+            "flags": 0, 
+            "guid": "pU2_dKL*0}", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ändert sich der Widerstand einer Leitung, wenn man die Länge verdreifacht?", 
+                "Widerstand verdreifacht sich"
+            ], 
+            "flags": 0, 
+            "guid": "F2Vb!6`Osg", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welcher Zusammenhang besteht zwischen Leitwert und Widerstand?", 
+                "<div>Kehrwerte voneinander</div>Leiter mit <b>kleinen Widerstand</b> leitet elektrischen Strom gut und hat daher einen <b>guten Leitwert</b>"
+            ], 
+            "flags": 0, 
+            "guid": "z/Zv[O*]gs", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Wie lautet die Einheiten des elektrischen Leitwertes?</div>", 
+                "<i>S</i> für Siemens"
+            ], 
+            "flags": 0, 
+            "guid": "zjpcIOr5F6", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Wie lautet der Formelbuchstabe des elektrischen Leitwertes?</div><div><br /></div>", 
+                "G"
+            ], 
+            "flags": 0, 
+            "guid": "Mpp+#jX2<S", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie läßt sich bei bekanntem spezifischen Widerstand die Leitfähigkeit bestimmen?", 
+                "[$]Leitfähigkeit = \\frac{1}{spezifischer Widerstand}[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "x{!p*e6>d", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "formula", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie verhalten sich Kaltleiter bei Erwärmung?", 
+                "Leitfähigkeit verschlechtert sich<div>da: mehr Zusammenstöße der Atome im Kristallgitter</div>"
+            ], 
+            "flags": 0, 
+            "guid": "lQqsh]-=T{", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie verhalten sich Heißleiter bei Erwärmung?", 
+                "Leitfähigkeit verbessert sich<div>da: mehr Elektronen werden frei</div>"
+            ], 
+            "flags": 0, 
+            "guid": "h}-0oFcz;z", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter Supraleiter?", 
+                "Leiter deren spezifischer Widerstand bei extremen Niedrigtemperaturen schlagartig gegen 0 geht"
+            ], 
+            "flags": 0, 
+            "guid": "Hu787XtE{h", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Um wieviel Prozent nimmt im Durchschnitt der Widerstand reiner Metalle bei Temperaturerhöhung um 1 K zu?", 
+                "0.4 %"
+            ], 
+            "flags": 0, 
+            "guid": "M(Ry+Q?Az$", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was kostet eine Kilowattstunde in der Herstellung und für Verbraucher?", 
+                "Herstellung ~5 Cent<div>Verbraucher ~20 Cent</div>"
+            ], 
+            "flags": 0, 
+            "guid": "q7mi[r/AE$", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "class"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet das Ohmsche Gesetz für den Widerstand?", 
+                "[$]R = \\frac{U}{I}[/$]<div><div>[$]Widerstand = \\frac{Spannung}{Stromstärke}[/$]</div></div><div>[$]\\Omega = \\frac{V}{A}[/$]</div><div><br /></div><div><img src=\"ohmslaw.gif\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "D_}&%_G3HD", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "class", 
+                "formula", 
+                "latex"
+            ]
+        }
+    ]
+}
