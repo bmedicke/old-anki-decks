@@ -29,7 +29,9 @@ To learn more, take a look at https://apps.ankiweb.net and the [docs](https://ap
 
 # how to help out
 
-Fork this repository, clone it, and start editing:
+[Fork](https://help.github.com/articles/fork-a-repo/) this repository, and send me a [pull request](https://help.github.com/articles/creating-a-pull-request/).
+
+You can edit the JSON directly (useful for minor fixes) or use Anki itself to make changes and create new cards.
 
 ## editing with Anki
 
@@ -40,12 +42,6 @@ Fork this repository, clone it, and start editing:
 <img src="export.png"></img>
 
 4. select the directory of this repo as a target
-5. send me a pull request
-
-## editing the json directly
-
-1. edit the json directly (useful for minor changes)
-2. send me a pull request
 
 # conventions
 
