@@ -16,7 +16,7 @@ To learn more, take a look at https://apps.ankiweb.net and the [docs](https://ap
 
 - clone this repository
 - get [Anki for desktop](https://apps.ankiweb.net) (Linux, Windows, macOS)
-- to install the [CrowdAnki Plugin](https://ankiweb.net/shared/info/1788670778):
+- install the [CrowdAnki Plugin](https://ankiweb.net/shared/info/1788670778):
   - open Anki
   - click _Tools_, _Add-ons_, _Browse & Install..._
   - enter plugin id `1788670778`

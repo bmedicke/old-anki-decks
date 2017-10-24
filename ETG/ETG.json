@@ -1354,7 +1354,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Was kostet eine Kilowattstunde in der Herstellung und für Verbraucher?", 
+                "Was kostet eine Kilowattstunde in der Herstellung und für den Verbraucher?", 
                 "Herstellung ~5 Cent<div>Verbraucher ~20 Cent</div>"
             ], 
             "flags": 0, 
