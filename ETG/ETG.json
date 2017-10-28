@@ -485,7 +485,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet der Formelbuchstabe der elektrischen Stromstärke?", 
-                "<i>I</i> (großes i)"
+                "<i>I</i> (großes i) für (lat.) inductus, leiten"
             ], 
             "flags": 0, 
             "guid": "q5wRrB`$1Y", 
@@ -515,7 +515,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet der Formelbuchstabe der elektrischen Spannung?", 
-                "<i>U</i>"
+                "<i>U</i> für (lat.) urgere, drängen"
             ], 
             "flags": 0, 
             "guid": "GFIr5y|;9D", 
@@ -695,7 +695,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet der Formelbuchstabe der Lichstärke?", 
-                "<i>I</i><sub style=\"font-style: italic; \">v</sub> (großes I, kleines subscript v)"
+                "<i>I</i><sub style=\"font-style: italic; \">v</sub> (großes I, kleines subscript v) für luminance <b>I</b>ntensity"
             ], 
             "flags": 0, 
             "guid": "Ov<XrbB4#(", 
@@ -815,7 +815,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet der Formelbuchstabe des elektrischen Widerstands?", 
-                "<i>R</i> für resistance"
+                "<i>R</i> für (lat.) resistentia, Widerstand"
             ], 
             "flags": 0, 
             "guid": "f&bEqL;Zwn", 
@@ -846,7 +846,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet der Formelbuchstabe der elektrischen Ladung (Elektrizitätsmenge)?", 
-                "<i>Q</i>"
+                "<i>Q</i> für (lat.) quantum, Menge"
             ], 
             "flags": 0, 
             "guid": "DIRI*h]GtQ", 
@@ -1462,7 +1462,7 @@
             "data": "", 
             "fields": [
                 "Welches ist das einfachste Atom?", 
-                "Wasserstoffatom<div><br /><div><div>1 Elektron</div>1 Proton<div>\n<hr />\n<b>H</b> für <i>hydrogenium</i> (lat.)\n<div>Ordnungszahl 1</div></div></div></div>"
+                "Wasserstoffatom<div><br /><div><div>1 Elektron</div>1 Proton<div>\n<hr />\n<b>H</b> für (lat.) <i>hydrogenium</i><div>Ordnungszahl 1</div></div></div></div>"
             ], 
             "flags": 0, 
             "guid": "m]*OqHz7Qe", 
