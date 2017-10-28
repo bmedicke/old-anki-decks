@@ -829,7 +829,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie lautet die Einheit der elektrischen Ladung<span style=\"color: rgb(255, 255, 255)\"> (Elektrizitätsmenge)</span>?", 
+                "Wie lautet die Einheit der elektrischen Ladung (Elektrizitätsmenge)?", 
                 "C für Coulomb\n<hr />\n<div>[$]1 C = 1As[/$]</div>"
             ], 
             "flags": 0, 
@@ -837,6 +837,7 @@
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter15", 
+                "latex", 
                 "units"
             ]
         }, 
@@ -1307,7 +1308,8 @@
             "guid": "z/Zv[O*]gs", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
-                "chapter1"
+                "chapter1", 
+                "latex"
             ]
         }, 
         {
@@ -1460,7 +1462,7 @@
             "data": "", 
             "fields": [
                 "Welches ist das einfachste Atom?", 
-                "Wasserstoffatom<div><br /><div><div>1 Elektron</div>1 Proton<div><span style=\"color: rgb(255, 255, 255)\">\n<hr />\n<b>H</b> für <i>hydrogenium</i> (lat.)\n<div>Ordnungszahl 1</div></span></div></div></div>"
+                "Wasserstoffatom<div><br /><div><div>1 Elektron</div>1 Proton<div>\n<hr />\n<b>H</b> für <i>hydrogenium</i> (lat.)\n<div>Ordnungszahl 1</div></div></div></div>"
             ], 
             "flags": 0, 
             "guid": "m]*OqHz7Qe", 
@@ -1501,8 +1503,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Welche Einflüsse können Halbleiter letfähig machen?", 
-                "Temperatur, Licht, magnitsche Felder"
+                "Welche Einflüsse können Halbleiter leitfähig machen?", 
+                "Temperatur<div>Licht</div><div>magnetische Felder</div>"
             ], 
             "flags": 0, 
             "guid": "l_v+nD6:kr", 
@@ -1515,7 +1517,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<span style=\"color: rgb(255, 255, 255)\">Wie lautet der Formel der elektrischen Ladung (Elektrizitätsmenge)?</span>", 
+                "Wie lautet die Formel der elektrischen Ladung (Elektrizitätsmenge)?", 
                 "[$]Q=I*t[/$]<div>[$]Elektrizit\\ddot{a}tsmenge\\ =\\ Stromst\\ddot{a}rke\\ *\\ Zeit[/$]</div>"
             ], 
             "flags": 0, 
@@ -1531,7 +1533,7 @@
             "data": "", 
             "fields": [
                 "Wie Lautet die Formel der Stromdichte?", 
-                "<span style=\"color: rgb(255, 255, 255)\">[$]J=\\frac{I}{q}[/$]</span><div><span style=\"color: rgb(255, 255, 255);\"><span style=\"color: rgb(255, 255, 255);\">[$]Stromdichte=\\frac{Stromst\\ddot{a}rke}{Leiterquerschnitt}[/$]</span></span></div>"
+                "[$]J=\\frac{I}{q}[/$]<div>[$]Stromdichte=\\frac{Stromst\\ddot{a}rke}{Leiterquerschnitt}[/$]</div>"
             ], 
             "flags": 0, 
             "guid": "RhF0KI-{-!", 
@@ -1560,7 +1562,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<span style=\"color: rgb(255, 255, 255)\">Wie lautet die Einheit für die Stromdichte?</span>", 
+                "Wie lautet die Einheit für die Stromdichte?", 
                 "[$]\\frac{A}{mm^2}[/$]"
             ], 
             "flags": 0, 
@@ -1576,8 +1578,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<span style=\"color: rgb(255, 255, 255)\">Wodurch zeichnet sich Mischstrom aus?</span>", 
-                "setzt sich aus Gleichstromanteil und Wechelstromanteil zusammen"
+                "Wodurch zeichnet sich Mischstrom aus?", 
+                "Zusammensetzung aus Gleichstrom- und Wechelstromanteil"
             ], 
             "flags": 0, 
             "guid": "GW>O5,&s^e", 
@@ -1590,14 +1592,15 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<span style=\"color: rgb(255, 255, 255)\">Welcher Zusammenhang besteht zwischen Leitfähigkeit und spezifischem Widerstand?</span>", 
-                "Leitfähigkeit ist der Kehrwert vom spezifischen Widerstand<div><span style=\"color: rgb(255, 255, 255)\">[$]\\kappa = \\frac{1}{\\rho}[/$]</span></div>"
+                "Welcher Zusammenhang besteht zwischen Leitfähigkeit und spezifischem Widerstand?", 
+                "Leitfähigkeit ist der Kehrwert vom spezifischen Widerstand<div>[$]\\kappa = \\frac{1}{\\rho}[/$]</div>"
             ], 
             "flags": 0, 
             "guid": "LyIOi(:iF;", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
-                "chapter1"
+                "chapter1", 
+                "latex"
             ]
         }
     ]
