@@ -34,7 +34,7 @@
                     7
                 ], 
                 "order": 1, 
-                "perDay": 20, 
+                "perDay": 25, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -57,12 +57,21 @@
     "inactiveTags": [], 
     "media_files": [
         "latex-c6a3c61a56a551beafad84fd0d6f62e1a96ece32.png", 
-        "latex-45c3e081197c8cea3e6962d9f502ccb74813c9f4.png", 
-        "latex-a2305f110ac98963e69970bde7d71a0ec2e0a71f.png", 
+        "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png", 
+        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
+        "latex-28acf9c6a20210d9b00df09a9bb64c36acc07aa0.png", 
+        "latex-ade66d7999d0c9ca58c59d2af3411e465a169f4f.png", 
+        "latex-47d77ec5499862d8b33e931e01cc2a5f4a41c524.png", 
+        "latex-f6fb4ff93428615e27a11361bda6947bbfbd9eec.png", 
+        "latex-a528772b607b4aacd4f865b63c85174560b6c7d3.png", 
+        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
         "ohmslaw.gif", 
-        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
-        "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png"
+        "latex-7f844c36160a66268d9a5b82935f11f094e609b4.png", 
+        "latex-d00de625712b86ec88452a58f2a30ad6730daa0a.png", 
+        "latex-1becf22f3205b307856064db3b179e4007dd728c.png", 
+        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png"
     ], 
+    "mid": "1508090811598", 
     "name": "ETG", 
     "note_models": [
         {
@@ -103,8 +112,62 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "class", 
-                "latex"
+                "chapter1"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "e89ea60f-b758-11e7-81e0-d49a20d0d551", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Feed_to_Anki", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [
+                "chapter15", 
+                "units"
             ], 
             "tmpls": [
                 {
@@ -399,8 +462,7 @@
             "guid": "vWAcQ+=o@O", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
-                "chapter1", 
-                "direction"
+                "chapter1"
             ]
         }, 
         {
@@ -767,8 +829,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie lautet die Einheit der elektrischen Ladung?", 
-                "C für Coulomb"
+                "Wie lautet die Einheit der elektrischen Ladung<span style=\"color: rgb(255, 255, 255)\"> (Elektrizitätsmenge)</span>?", 
+                "C für Coulomb\n<hr />\n<div>[$]1 C = 1As[/$]</div>"
             ], 
             "flags": 0, 
             "guid": "ifL0u(,Zu[", 
@@ -782,7 +844,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie lautet der Formelbuchstabe der elektrischen Ladung?", 
+                "Wie lautet der Formelbuchstabe der elektrischen Ladung (Elektrizitätsmenge)?", 
                 "<i>Q</i>"
             ], 
             "flags": 0, 
@@ -870,7 +932,7 @@
             "data": "", 
             "fields": [
                 "Wodurch zeichnet sich Wechselstrom aus?", 
-                "Stromstärke und Fließrichtung ändert sich"
+                "Stromstärke und Fließrichtung ändern sich periodisch"
             ], 
             "flags": 0, 
             "guid": "C;VQj<3guH", 
@@ -898,7 +960,7 @@
             "data": "", 
             "fields": [
                 "Anwedungsbeispiel: Wärmeentwicklung des Stroms", 
-                "Heizung"
+                "Heizung, Lötkolben, Schmelzofen"
             ], 
             "flags": 0, 
             "guid": "k}J>HN#5_4", 
@@ -912,7 +974,7 @@
             "data": "", 
             "fields": [
                 "Anwedungsbeispiel: Lichtwirkung des Stroms", 
-                "Glühbirne<div>Leuchtstoffröhre</div>"
+                "Glühbirne<div>Leuchtstoffröhre</div><hr />Gase mit Leuchtwirkung: Neon, Argon, Quecksilberdampf"
             ], 
             "flags": 0, 
             "guid": "Cgy63*fZE9", 
@@ -954,7 +1016,7 @@
             "data": "", 
             "fields": [
                 "Anwedungsbeispiel: Chemische Wirkung des Stroms", 
-                "Elektrolyse<div>Galvanisieren (electroplating)</div>"
+                "Elektrolyse<div>Galvanisieren (electroplating)</div>\n<hr />elektrischer Strom zerlegt leitende Flüssigkeiten"
             ], 
             "flags": 0, 
             "guid": "xlNb7HO/{n", 
@@ -1081,7 +1143,7 @@
             "data": "", 
             "fields": [
                 "Was versteht man unter dem elektrischem Potential?", 
-                "Spannung zwischen einem elektrischen Schaltkreis und einem festen Bezugpunkt. z.B. Masse<div><div>Formelzeichen <i>φ</i> (kleines Phi)</div></div>"
+                "Spannung zwischen einem elektrischen Schaltkreis und einem festen Bezugpunkt. z.B. Masse\n<hr />Potentiale haben immer ein Vorzeichen"
             ], 
             "flags": 0, 
             "guid": "ho@KExwv~&", 
@@ -1180,7 +1242,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Einheit des spezifischen Widerstandes?", 
-                "<div>[$]\\frac{\\Omega * mm^{2}}{m}[/$]</div>"
+                "<div>[$]\\frac{\\Omega\\ *\\ mm^{2}}{m}[/$]</div>"
             ], 
             "flags": 0, 
             "guid": "sJtz)[_|fE", 
@@ -1239,13 +1301,12 @@
             "data": "", 
             "fields": [
                 "Welcher Zusammenhang besteht zwischen Leitwert und Widerstand?", 
-                "<div>Kehrwerte voneinander</div>\n<hr />\nLeiter mit <b>kleinen Widerstand</b> leitet elektrischen Strom gut und hat daher einen <b>guten Leitwert</b>"
+                "<div>Leitwert ist der Kehrwert vom Widerstand</div><div>[$]G = \\frac{1}{R}[/$]</div>\n<hr />\nLeiter mit <b>kleinen Widerstand</b> leitet elektrischen Strom gut und hat daher einen <b>guten Leitwert</b>"
             ], 
             "flags": 0, 
             "guid": "z/Zv[O*]gs", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
-                "TODO", 
                 "chapter1"
             ]
         }, 
@@ -1269,7 +1330,7 @@
             "data": "", 
             "fields": [
                 "<div>Wie lautet der Formelbuchstabe des elektrischen Leitwertes?</div><div><br /></div>", 
-                "G"
+                "<i>G</i>"
             ], 
             "flags": 0, 
             "guid": "Mpp+#jX2<S", 
@@ -1284,7 +1345,7 @@
             "data": "", 
             "fields": [
                 "Wie läßt sich bei bekanntem spezifischen Widerstand die Leitfähigkeit bestimmen?", 
-                "[$]Leitf\\ddot{a}higkeit = \\frac{1}{spezifischer\\ Widerstand}[/$]"
+                "[$]Leitf\\ddot{a}higkeit=\\frac{1}{spezifischer\\ Widerstand}[/$]"
             ], 
             "flags": 0, 
             "guid": "x{!p*e6>d", 
@@ -1377,6 +1438,166 @@
             "tags": [
                 "class", 
                 "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe des elektrischen Potentials?", 
+                "<i>φ</i> (kleines Phi)"
+            ], 
+            "flags": 0, 
+            "guid": "d}xPLg5ZW?", 
+            "note_model_uuid": "e89ea60f-b758-11e7-81e0-d49a20d0d551", 
+            "tags": [
+                "chapter15", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welches ist das einfachste Atom?", 
+                "Wasserstoffatom<div><br /><div><div>1 Elektron</div>1 Proton<div><span style=\"color: rgb(255, 255, 255)\">\n<hr />\n<b>H</b> für <i>hydrogenium</i> (lat.)\n<div>Ordnungszahl 1</div></span></div></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "m]*OqHz7Qe", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Beispiele für Halbleiter?", 
+                "Silizium, Selen, Germanium, Kupferoxidul"
+            ], 
+            "flags": 0, 
+            "guid": "dpL_k4(9(=", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was zeichnet Halbleiter aus?", 
+                "es werden erst durch äußere Einflüsse Valenzelektronen frei"
+            ], 
+            "flags": 0, 
+            "guid": "JD`+$&%8B^", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welche Einflüsse können Halbleiter letfähig machen?", 
+                "Temperatur, Licht, magnitsche Felder"
+            ], 
+            "flags": 0, 
+            "guid": "l_v+nD6:kr", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<span style=\"color: rgb(255, 255, 255)\">Wie lautet der Formel der elektrischen Ladung (Elektrizitätsmenge)?</span>", 
+                "[$]Q=I*t[/$]<div>[$]Elektrizit\\ddot{a}tsmenge\\ =\\ Stromst\\ddot{a}rke\\ *\\ Zeit[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "bO@N2:O0#x", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie Lautet die Formel der Stromdichte?", 
+                "<span style=\"color: rgb(255, 255, 255)\">[$]J=\\frac{I}{q}[/$]</span><div><span style=\"color: rgb(255, 255, 255);\"><span style=\"color: rgb(255, 255, 255);\">[$]Stromdichte=\\frac{Stromst\\ddot{a}rke}{Leiterquerschnitt}[/$]</span></span></div>"
+            ], 
+            "flags": 0, 
+            "guid": "RhF0KI-{-!", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe für die Stromdichte?", 
+                "<i>J</i>"
+            ], 
+            "flags": 0, 
+            "guid": "AbH6TeU`cC", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<span style=\"color: rgb(255, 255, 255)\">Wie lautet die Einheit für die Stromdichte?</span>", 
+                "[$]\\frac{A}{mm^2}[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "EfbNA3jJE9", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1", 
+                "latex", 
+                "units"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<span style=\"color: rgb(255, 255, 255)\">Wodurch zeichnet sich Mischstrom aus?</span>", 
+                "setzt sich aus Gleichstromanteil und Wechelstromanteil zusammen"
+            ], 
+            "flags": 0, 
+            "guid": "GW>O5,&s^e", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<span style=\"color: rgb(255, 255, 255)\">Welcher Zusammenhang besteht zwischen Leitfähigkeit und spezifischem Widerstand?</span>", 
+                "Leitfähigkeit ist der Kehrwert vom spezifischen Widerstand<div><span style=\"color: rgb(255, 255, 255)\">[$]\\kappa = \\frac{1}{\\rho}[/$]</span></div>"
+            ], 
+            "flags": 0, 
+            "guid": "LyIOi(:iF;", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
             ]
         }
     ]
