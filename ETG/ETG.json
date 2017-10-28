@@ -57,19 +57,24 @@
     "inactiveTags": [], 
     "media_files": [
         "latex-c6a3c61a56a551beafad84fd0d6f62e1a96ece32.png", 
-        "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png", 
-        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
-        "latex-28acf9c6a20210d9b00df09a9bb64c36acc07aa0.png", 
+        "14080111.gif", 
+        "latex-7c440933d81b681656de9b20dc78801457fde9d3.png", 
         "latex-ade66d7999d0c9ca58c59d2af3411e465a169f4f.png", 
-        "latex-47d77ec5499862d8b33e931e01cc2a5f4a41c524.png", 
         "latex-f6fb4ff93428615e27a11361bda6947bbfbd9eec.png", 
-        "latex-a528772b607b4aacd4f865b63c85174560b6c7d3.png", 
-        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
         "ohmslaw.gif", 
-        "latex-7f844c36160a66268d9a5b82935f11f094e609b4.png", 
         "latex-d00de625712b86ec88452a58f2a30ad6730daa0a.png", 
         "latex-1becf22f3205b307856064db3b179e4007dd728c.png", 
-        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png"
+        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
+        "latex-ce5a07e81912e4dab8d8a4de8259c33a1782595b.png", 
+        "latex-28acf9c6a20210d9b00df09a9bb64c36acc07aa0.png", 
+        "latex-47d77ec5499862d8b33e931e01cc2a5f4a41c524.png", 
+        "02011112.gif", 
+        "latex-a528772b607b4aacd4f865b63c85174560b6c7d3.png", 
+        "latex-32a6abffde3097c3eb082b0f2acd183f9e260ffa.png", 
+        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
+        "latex-7f844c36160a66268d9a5b82935f11f094e609b4.png", 
+        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
+        "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png"
     ], 
     "mid": "1508090811598", 
     "name": "ETG", 
@@ -112,7 +117,7 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "chapter1"
+                "chapter2"
             ], 
             "tmpls": [
                 {
@@ -1601,6 +1606,217 @@
             "tags": [
                 "chapter1", 
                 "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lauten die drei Formeln des Ohmschen Gesetzes?", 
+                "[$]U = R * I[/$]<div><br /><div>[$]R = \\frac{U}{I}[/$]</div></div><div><br /></div><div>[$]I = \\frac{U}{R}[/$]</div><div><br /></div><div><hr /><div><img src=\"ohmslaw.gif\" /></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "zD<hV8<n>N", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ändert sich der Strom, wenn die Spannung um 10% sinkt?", 
+                "Stromstärke wird 10% schwächer"
+            ], 
+            "flags": 0, 
+            "guid": "zWl)^T)%0Y", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was lässt sich über die Stromstärke in Widerständen in Reihenstromkreisen aussagen?", 
+                "Stromstärke ist in allen Widerständen gleich groß"
+            ], 
+            "flags": 0, 
+            "guid": "hRs>VG8$c=", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie berechnet man bei Reihenschaltung von Widerständen den Gesamtwiderstand?", 
+                "Summe der Teilwiderstände"
+            ], 
+            "flags": 0, 
+            "guid": "jrsk+LJpEb", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "An welchen Widerstand fällt bei einer Reihenschaltung die größte Spannung ab?", 
+                "an den größten Widerstand"
+            ], 
+            "flags": 0, 
+            "guid": "A>2<4Q27@u", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter einem Ersatzwiderstand?", 
+                "Gesamtwiderstand<div>Summe aller Teilwiderstände</div>"
+            ], 
+            "flags": 0, 
+            "guid": "E_[BOutTj7", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum wird bei Verbrauchern selten die Reihenschaltung eingesetzt?", 
+                "da bei Ausfall eines Verbrauchers alle anderen Verbaucher ohne Strom sind"
+            ], 
+            "flags": 0, 
+            "guid": "D3OKps`{)1", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter einem Potentiometer?", 
+                "ein variabler Widerstand<div>Änderung durch Drehen oder Verschieben</div>\n<hr />Verwendung: vorwiegend als stetig einstellbarer Spannungsteiler"
+            ], 
+            "flags": 0, 
+            "guid": "k9@{m^}=eg", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wozu dient ein Spannungsteiler?", 
+                "Spannungsmessung (Multimeter)<div>Erstellung von Brückenschaltungen<br /><hr />Unbelasteter Spannungsteiler:</div><div><img src=\"02011112.gif\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "r5QQh[DGM+", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wozu dient ein Vorwiderstand?", 
+                "Vorwiderstände können überflüssige Spannungen vernichten<div>sie schützen Bauteile vor zu hoher Spannung, dabei entsteht Wärme<hr /></div><div>Verbraucher mit Vorwiderstand:</div><div><img src=\"14080111.gif\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "QJ8kcKnIT@", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein Nachteil von Vorwiderständen?", 
+                "große Verluste in Form von Wärme"
+            ], 
+            "flags": 0, 
+            "guid": "s+M;Zo-.#l", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie werden Leitungen grundsätzlich eingeteilt?", 
+                "Leitungen für fester Verlegung<div>flexible Leitungen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "x//Sd;_&v=", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wodurch wird der Spannungsfall größer?", 
+                "durch größeren Strom (<i>I</i>)<div>durch größeren Leiterwiderstand<i> </i>(<i>R</i><i style=\"vertical-align: sub; \">L</i>)</div><hr />[$]U_{a} = I * R_{L}[/$]\n"
+            ], 
+            "flags": 0, 
+            "guid": "t8#v.yV#YB", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie kommt der Spannungsfall auf einer Leitung zustande?", 
+                "Der Spannungsfall wird durch den Strom bei der Überwindung des Drahtwiderstandes verursacht"
+            ], 
+            "flags": 0, 
+            "guid": "r^,H||U<9]", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welche Folgen hat der Spannungsfall auf Leitungen?", 
+                "Verursachung von Verlusten<div>Wärmeentwicklung</div>"
+            ], 
+            "flags": 0, 
+            "guid": "lmqvy##/{H", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
             ]
         }
     ]
