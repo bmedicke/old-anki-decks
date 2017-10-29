@@ -56,36 +56,53 @@
     "extendRev": 50, 
     "inactiveTags": [], 
     "media_files": [
-        "14080111.gif", 
         "latex-c6a3c61a56a551beafad84fd0d6f62e1a96ece32.png", 
-        "latex-7c440933d81b681656de9b20dc78801457fde9d3.png", 
+        "06080113.gif", 
         "10060711.gif", 
         "06080111.gif", 
-        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
-        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
-        "latex-f6fb4ff93428615e27a11361bda6947bbfbd9eec.png", 
-        "latex-a59313ed8d0a86c53db5c6f27edbfd6e556b9b99.png", 
-        "latex-7472f06dc89734890ba714aa6cc19fce8acbea74.png", 
-        "ohmslaw.gif", 
-        "latex-905c8da68d6eb64aeff18f0a0cf30ca2f133fc4d.png", 
+        "latex-70fa5e64406d92c731b47b09c1d501572c8990d4.png", 
         "latex-d00de625712b86ec88452a58f2a30ad6730daa0a.png", 
+        "latex-a59313ed8d0a86c53db5c6f27edbfd6e556b9b99.png", 
+        "latex-bbe9bdcc02c1f23da19f5c9d690ffdaab2b7f869.png", 
+        "latex-4c04cf64d14ff0d8fa788d50f788b968cb77da7f.png", 
         "01101921.gif", 
         "latex-1becf22f3205b307856064db3b179e4007dd728c.png", 
         "latex-7f844c36160a66268d9a5b82935f11f094e609b4.png", 
-        "latex-e785bb7ea635e722061a32d95e618c78b4427a46.png", 
+        "latex-ff54a71c8d63e4b915386c753385cc3707b95e33.png", 
         "latex-15c95198531a1cdec9e8886c44bf5759a24c2680.png", 
         "10060712.gif", 
         "latex-ce5a07e81912e4dab8d8a4de8259c33a1782595b.png", 
         "latex-28acf9c6a20210d9b00df09a9bb64c36acc07aa0.png", 
         "latex-47d77ec5499862d8b33e931e01cc2a5f4a41c524.png", 
-        "06080113.gif", 
         "02011112.gif", 
         "03061511.gif", 
         "latex-32a6abffde3097c3eb082b0f2acd183f9e260ffa.png", 
         "latex-a528772b607b4aacd4f865b63c85174560b6c7d3.png", 
-        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
         "latex-ade66d7999d0c9ca58c59d2af3411e465a169f4f.png", 
         "latex-85d4d0b505b041805c1533c4f5ba6ff1100fe71d.png", 
+        "latex-03a45952f8115322d2879f7d090126f059757ba0.png", 
+        "latex-3e902f63ad0d4204275184a2bbb5f7f6f569dcc6.png", 
+        "14080111.gif", 
+        "latex-7c440933d81b681656de9b20dc78801457fde9d3.png", 
+        "latex-0cfc83e8844b862efc89401055a10ec05cfca3ed.png", 
+        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
+        "latex-116965dce7f62a4825616eb2e9b63d45194c0d86.png", 
+        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
+        "latex-7472f06dc89734890ba714aa6cc19fce8acbea74.png", 
+        "latex-67b18c1804ad2a905a5231b869633683577e04e6.png", 
+        "ohmslaw.gif", 
+        "latex-905c8da68d6eb64aeff18f0a0cf30ca2f133fc4d.png", 
+        "latex-4d25626724712072cdb97d551728d33d0896de0b.png", 
+        "latex-575f0f2d2836f674cab503085cd97a36209861c3.png", 
+        "latex-39215f45978e350a90376de77c850fb44af3d17b.png", 
+        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
+        "latex-e785bb7ea635e722061a32d95e618c78b4427a46.png", 
+        "latex-7bb17a1ee341ec68a9775b9eef6980ec47af7d16.png", 
+        "latex-8fcf0b10a68e406475abd407b11db14f4152ff37.png", 
+        "latex-f6fb4ff93428615e27a11361bda6947bbfbd9eec.png", 
+        "latex-050e5b63875b1313ad8bffde4b3da52d12d1c00a.png", 
+        "latex-1fe92bd4f804f5fea24526f1c59a4d7b8e902a9e.png", 
+        "latex-c8ddd19014b551904d331ac00f173bb0ca97854d.png", 
         "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png"
     ], 
     "mid": "1508090811598", 
@@ -94,7 +111,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\ntd {\ntext-align: left;\npadding-right: 15px;\n}\n\ntable {\nmargin: auto;\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -129,11 +146,11 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "chapter2"
+                "chapter3"
             ], 
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer color=black>\n\n{{Back}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
@@ -757,7 +774,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Einheit der Energie oder Arbeit?", 
-                "J für Joule\n<hr />\ncal für calories"
+                "J für Joule\n<hr />[$]1 VAs = 1 Ws = 1 J[/$]<div><br /><div>[$]1 Nm = 1J[/$]</div><div><br /></div><div>cal für calories</div></div>"
             ], 
             "flags": 0, 
             "guid": "n=X4:H6wsq", 
@@ -787,7 +804,7 @@
             "data": "", 
             "fields": [
                 "Wie lautet die Einheit der Leistung?", 
-                "W für Watt"
+                "W für Watt\n"
             ], 
             "flags": 0, 
             "guid": "cjKKefr|<R", 
@@ -1089,8 +1106,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie lautet die Formel für Kraft?", 
-                "[$]F = m * a[/$]<div><div>Kraft ist Masse mal Beschleunigung</div></div>"
+                "Wie lautet die Formel der Kraft?", 
+                "[$]F = m * a[/$]<div><br /><div><div>Kraft ist Masse mal Beschleunigung</div></div></div>"
             ], 
             "flags": 0, 
             "guid": "Gq^~G524zz", 
@@ -1564,7 +1581,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie lautet der Formelbuchstabe für die Stromdichte?", 
+                "Wie lautet der Formelbuchstabe der Stromdichte?", 
                 "<i>J</i>"
             ], 
             "flags": 0, 
@@ -2087,6 +2104,162 @@
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der elektrische Arbeit?", 
+                "[$]W = U * I * t[/$]<div><br /></div><div>[$]Elektrische Arbeit = Spannung * Stromst\\ddot{a}rke * Zeit[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "OM;;lc.SA=", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Leistung?", 
+                "[$]P = \\frac{W}{t}[/$]<div><br /></div><div>[$]Leistung = \\frac{Arbeit}{Zeit}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Q2X>7Tr}*_", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter Energie?", 
+                "Energie ist das Vermögen, Arbeit zu verrichten.\n<hr />\ndeswegen haben Energie und Arbeit die gleiche Einheit (Joule)"
+            ], 
+            "flags": 0, 
+            "guid": "C>FGd%zcg", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum ist der Wirkungsgrad immer kleiner als 1?", 
+                "da bei jeder Energieumwandlung Verluste entstehen"
+            ], 
+            "flags": 0, 
+            "guid": "zH<Ot+`F@v", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet der Formelbuchstabe des Wirkungsgrades?", 
+                "[$]\\eta[/$] (kleines Eta)"
+            ], 
+            "flags": 0, 
+            "guid": "q.fHz(lkk~", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel des Wirkungsgrades?", 
+                "[$]\\eta = \\frac{W_{ab}}{W_{zu}}[/$]<div><br /></div><div>[$]Wirkungsgrad = \\frac{abgegebene\\ Arbeit}{zugef\\ddot{u}hrte\\ Arbeit}[/$]</div>\n<hr />\nda Arbeit gleich Leistung je Zeiteinheit ist:<div><br />\n[$]\\eta = \\frac{P_{ab}}{P_{zu}}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "iIipN;`7$|", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was bedeutet es, wenn eine Glühbirne einen Wirkungsgrad von 0.015 hat?", 
+                "1.5% der Arbeit wird in Licht umgewandelt, der Rest ist Verlust durch Wärme"
+            ], 
+            "flags": 0, 
+            "guid": "Mx)d$qr)_a", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Beispiele für übliche Wirkungsgrade", 
+                "<table>\n<tbody>\n<tr><td>Glühbirne</td><td>0.015</td>\n</tr>\n<tr><td>LED</td><td>0.3</td>\n</tr>\n<tr>\n</tr><tr><td>Wechselstrommotor</td><td>0.7</td>\n</tr>\n<tr><td>Drehstrommotor</td><td>0.8 - 0.95</td>\n</tr></tbody></table>"
+            ], 
+            "flags": 0, 
+            "guid": "DAhigI^JuC", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ändert sich die Leistung, wenn die Spannung verdreifacht wird?", 
+                "Leistung verdreifacht sich\n<hr />\n[$]P_{1} = U * I[/$]<div><br /><div>[$]P_{2} = (3 * U) * I[/$]</div><div><br /></div><div>[$]3 * P_{1} = P_{2}[/$]</div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "GHRI4~bUc2", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie ändert sich die Leistung, wenn der Widerstand halbiert wird?", 
+                "Leistung halbiert sich\n<hr />\n[$]P_{1} = R * I^{2}[/$]<div><br /></div><div>[$]P_{2} = \\frac{R}{2} * I^{2}[/$]</div><div><br /></div><div>[$]P_{1} = \\frac{P_{2}}{2}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "HZ]Htln&Nh", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie viele Joule sind 1 Kalorie?", 
+                "[$]1 cal \\approx 4 J [/$]"
+            ], 
+            "flags": 0, 
+            "guid": "nkrE}y4!qa", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter3"
             ]
         }
     ]
