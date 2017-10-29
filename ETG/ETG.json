@@ -56,24 +56,36 @@
     "extendRev": 50, 
     "inactiveTags": [], 
     "media_files": [
-        "latex-c6a3c61a56a551beafad84fd0d6f62e1a96ece32.png", 
         "14080111.gif", 
+        "latex-c6a3c61a56a551beafad84fd0d6f62e1a96ece32.png", 
         "latex-7c440933d81b681656de9b20dc78801457fde9d3.png", 
-        "latex-ade66d7999d0c9ca58c59d2af3411e465a169f4f.png", 
+        "10060711.gif", 
+        "06080111.gif", 
+        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
+        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
         "latex-f6fb4ff93428615e27a11361bda6947bbfbd9eec.png", 
+        "latex-a59313ed8d0a86c53db5c6f27edbfd6e556b9b99.png", 
+        "latex-7472f06dc89734890ba714aa6cc19fce8acbea74.png", 
         "ohmslaw.gif", 
+        "latex-905c8da68d6eb64aeff18f0a0cf30ca2f133fc4d.png", 
         "latex-d00de625712b86ec88452a58f2a30ad6730daa0a.png", 
+        "01101921.gif", 
         "latex-1becf22f3205b307856064db3b179e4007dd728c.png", 
-        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
+        "latex-7f844c36160a66268d9a5b82935f11f094e609b4.png", 
+        "latex-e785bb7ea635e722061a32d95e618c78b4427a46.png", 
+        "latex-15c95198531a1cdec9e8886c44bf5759a24c2680.png", 
+        "10060712.gif", 
         "latex-ce5a07e81912e4dab8d8a4de8259c33a1782595b.png", 
         "latex-28acf9c6a20210d9b00df09a9bb64c36acc07aa0.png", 
         "latex-47d77ec5499862d8b33e931e01cc2a5f4a41c524.png", 
+        "06080113.gif", 
         "02011112.gif", 
-        "latex-a528772b607b4aacd4f865b63c85174560b6c7d3.png", 
+        "03061511.gif", 
         "latex-32a6abffde3097c3eb082b0f2acd183f9e260ffa.png", 
-        "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
-        "latex-7f844c36160a66268d9a5b82935f11f094e609b4.png", 
-        "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
+        "latex-a528772b607b4aacd4f865b63c85174560b6c7d3.png", 
+        "latex-de4746133d459a8a869056d5d1f7ab8d53df6a31.png", 
+        "latex-ade66d7999d0c9ca58c59d2af3411e465a169f4f.png", 
+        "latex-85d4d0b505b041805c1533c4f5ba6ff1100fe71d.png", 
         "latex-80ccdd5d2ea62fdc5c8868f99e7d50e1ede9ac97.png"
     ], 
     "mid": "1508090811598", 
@@ -1814,6 +1826,264 @@
             ], 
             "flags": 0, 
             "guid": "lmqvy##/{H", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum fließt bei einer Parallelschaltung durch den größsten Widerstand der kleinste Strom?", 
+                "aufgrund des Ohmschen Gesetzes\n<hr />\n<div>Gesamtstrom wird aufgeteilt</div>"
+            ], 
+            "flags": 0, 
+            "guid": "H.`QNnTku`", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist das wesentliche Merkmal der Prallelschaltung?", 
+                "alle Widerstände liegen an derselben Spannung\n<hr />\n<img src=\"01101921.gif\" />"
+            ], 
+            "flags": 0, 
+            "guid": "LebB(BYRa9", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was lässt sich über den Gesamtwiderstand in einer Parallelschaltung aussagen?", 
+                "der Gesamtwiderstand ist kleiner als der kleinste Teilwiderstand"
+            ], 
+            "flags": 0, 
+            "guid": "CX(F~m3!sa", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Gleichung zur Berechnung des Gesamtwiderstandes zweier parallelgeschalteter Wiederstände?", 
+                "[$]R_{ges} = \\frac{R_{1}\\ *\\ R_{2}}{R_{1}\\ +\\ R_{2}}[/$]<hr />folgende Formel gilt auch für mehr als 2 Widerstände:<div><br /></div><div>[$]\\frac{1}{R_{ges}} = \\frac{1}{R_{1}} + \\frac{1}{R_{2}}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "dWeXx>YcFw", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum werden praktisch alle Geräte in der Praxis parallelgeschaltet?", 
+                "da Geräte üblicherweise für eine bestimmte Nennspannung gebaut sind<div>bei Ausfall eines Gerätes nicht alle anderen betroffen sind</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Mej.vc{a8.", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Gleichung zur Berechnung des Gesamtleitwertes zweier parallelgeschalteter Wiederstände?", 
+                "[$]G_{ges} = G_{1} + G_{2}[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "M$|8Ib,W^B", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein Knotenpunkt?", 
+                "Verzweigungspunkt<div><hr />\nDie Summe der zufließenden ist gleich der Summe der abfließenden Ströme:</div><div><img src=\"06080111.gif\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "bjdm}ED_+)", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die erste Kirchhoffsche Regel?", 
+                "Knotenregel: In jedem Knotenpunt ist die Summe der zufließenden Ströme gleich der Summer der abfließenden Ströme.<hr />\n[$]I_{1} + I_{2} = I_{3} + I_{4} + I_{5}[/$]<div><br /><div><img src=\"06080111.gif\" /></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "d[`e.-PJVt", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die zweite Kirchhoffsche Regel?", 
+                "Maschenregel: In jedem geschlossenen Stromkreis ist die Summe der Quellenspannungen gleich der Summe aller Spannungsfälle.\n<hr />\n[$]U_{q1} + U_{q2} = I * R_{1} + I * R_{2}[/$]<div><br /></div><div><img src=\"06080113.gif\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "K4jK&G>o]p", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist eine Masche?", 
+                "ein geschlossener Stromkreis"
+            ], 
+            "flags": 0, 
+            "guid": "IH!-m*eW:U", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum können in einem geschlossenen Stromkreis die Spannungsfälle nie größer als die Quellenspannungen sein?", 
+                "aufgrund der Maschenregel"
+            ], 
+            "flags": 0, 
+            "guid": "Am+$V*k.8q", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "TODO", 
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist eine gemischte Schaltung?", 
+                "Schaltung, die sich aus Parallel- und Reihenschaltung zusammensetzt<div>aka. Gruppenschaltung</div>"
+            ], 
+            "flags": 0, 
+            "guid": "oVl^P+8<hN", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Rechenreihenfolge wenn eine Parallelschaltung eine Reihenschaltung beinhaltet? ", 
+                "Reihenschaltung zuerst <div><br /></div><div><img src=\"10060712.gif\" />\n</div>"
+            ], 
+            "flags": 0, 
+            "guid": "H[`Gl^#([?", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist eine erweiterte Parallelschaltung?", 
+                "<div>Parallelschaltung, bei der ein Widerstand aus einer Reihenschaltung besteht</div><div><br /></div><img src=\"10060712.gif\" />"
+            ], 
+            "flags": 0, 
+            "guid": "BE`iue1bqz", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist eine erweiterte Reihenschaltung?", 
+                "Reihenschaltung, bei der ein Widerstand aus einer Parallelschaltung besteht<div><br /></div><div><img src=\"10060711.gif\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "n~~J@_eq./", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wozu dienen Widerstandsbrücken?", 
+                "zur genauen Bestimmung von Widerständen<div>Mess- und Regelungstechnik</div>\n<hr /><img src=\"03061511.gif\" />\n"
+            ], 
+            "flags": 0, 
+            "guid": "l<y(?aZGe8", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Abgleichbedingung der Brückenschaltung?", 
+                "[$]\\frac{R_{1}}{R_{2}} = \\frac{R_{3}}{R_{4}}[/$]<div><br /></div><div><img src=\"03061511.gif\" />\n<hr />\nWenn diese Bedingung erfüllt ist, fließt kein Ausgleichstrom über die Brücke.</div>"
+            ], 
+            "flags": 0, 
+            "guid": "LcHkI=EA(J", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2", 
+                "latex"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Warum kann eine abgeglichene Widerstandsbrücke durch Änderung der Spannung nicht aus dem Gleichgewicht gebracht werden?", 
+                "da sich das Verhältnis der Widerstände nicht ändert"
+            ], 
+            "flags": 0, 
+            "guid": "o&F6dm0K<E", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter2"
