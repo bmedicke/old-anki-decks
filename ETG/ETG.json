@@ -137,7 +137,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage[ngerman]{babel}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic", 
+            "name": "Basic-7c1e6", 
             "req": [
                 [
                     0, 
@@ -149,8 +149,7 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "TODO", 
-                "chapter4"
+                "chapter5"
             ], 
             "tmpls": [
                 {
@@ -957,20 +956,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Anwedungsbeispiel: Lichtwirkung des Stroms", 
-                "Glühbirne<div>Leuchtstoffröhre</div><hr />Gase mit Leuchtwirkung: Neon, Argon, Quecksilberdampf"
-            ], 
-            "flags": 0, 
-            "guid": "Cgy63*fZE9", 
-            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "tags": [
-                "chapter1"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "Anwedungsbeispiel: magnetische Wirkung des Stroms", 
                 "Elektromotor<div>Lautsprecher</div><div>Mikrofon</div>"
             ], 
@@ -990,20 +975,6 @@
             ], 
             "flags": 0, 
             "guid": "GmUG[sy#*L", 
-            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "tags": [
-                "chapter1"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Anwedungsbeispiel: Chemische Wirkung des Stroms", 
-                "Elektrolyse<div>Galvanisieren (electroplating)</div>\n<hr />elektrischer Strom zerlegt leitende Flüssigkeiten"
-            ], 
-            "flags": 0, 
-            "guid": "xlNb7HO/{n", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter1"
@@ -1647,20 +1618,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "An welchen Widerstand fällt bei einer Reihenschaltung die größte Spannung ab?", 
-                "an den größten Widerstand"
-            ], 
-            "flags": 0, 
-            "guid": "A>2<4Q27@u", 
-            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "tags": [
-                "chapter2"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "Was versteht man unter einem Ersatzwiderstand?", 
                 "Gesamtwiderstand<div>Summe aller Teilwiderstände</div>"
             ], 
@@ -2214,6 +2171,48 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
+                "Anwedungsbeispiel: Lichtwirkung des Stroms", 
+                "Glühbirne<div>Leuchtstoffröhre</div><hr />Gase mit Leuchtwirkung: Neon, Argon, Quecksilberdampf"
+            ], 
+            "flags": 0, 
+            "guid": "Cgy63*fZE9", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: Chemische Wirkung des Stroms", 
+                "Elektrolyse<div>Galvanisieren (electroplating)</div>\n<hr />elektrischer Strom zerlegt leitende Flüssigkeiten"
+            ], 
+            "flags": 0, 
+            "guid": "xlNb7HO/{n", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "An welchen Widerstand fällt bei einer Reihenschaltung die größte Spannung ab?", 
+                "an den größten Widerstand"
+            ], 
+            "flags": 0, 
+            "guid": "A>2<4Q27@u", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
                 "Was sind 5 Arten der Spannungserzeugung?", 
                 "<div>Reibung</div><div>Wärme<div>Licht</div></div><div>chemisch</div><div>Verformung von Kristallen</div>"
             ], 
@@ -2349,6 +2348,230 @@
             "tags": [
                 "TODO", 
                 "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist Elektrolyse?", 
+                "Die Zerlegung von Stoffen durch den elektrischen Strom"
+            ], 
+            "flags": 0, 
+            "guid": "sM8^pGIe^6", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein Elektrolyt?", 
+                "Ein elektisch leitender Stoff."
+            ], 
+            "flags": 0, 
+            "guid": "d`}BBnmwS+", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Ist chemisch reines Wasser ein Elektrolyt?", 
+                "Nein, erst durch den Zusatz von Säuren, Laugen oder Salzen wird Wasser elektrisch leitend."
+            ], 
+            "flags": 0, 
+            "guid": "ds1NG;c}q$", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "In welche Bestandteile löst sich ein Salz (z.B. CuSO<sub>4</sub>) auf?", 
+                "In den Metallteil (Cu+) und den Säurerestteil (SO<sub>4</sub>-)"
+            ], 
+            "flags": 0, 
+            "guid": "MnOc&HhA~w", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "In metallischen Leitern sind Elektronen die Träger der Elektrizität. Was passiert im Elektrolyt?", 
+                "In den Elektrolyten sind die Ionen die Träger der Elektrizität. -&gt; Ionenstrom"
+            ], 
+            "flags": 0, 
+            "guid": "Fc6+|%l6qH", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein galvanisches Element?", 
+                "Zwei verschiedene Werkstoffe in einem Elektrolyten ergeben eine Spannungsquelle, ein sogenanntes galvanisches Element."
+            ], 
+            "flags": 0, 
+            "guid": "nMvX2k{^:@", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wovon hängt die Höhe der Spannung eines galvanischen Elements ab?", 
+                "Von der Art der Werkstoffe und der Art und Konzentration des Elektrolyten."
+            ], 
+            "flags": 0, 
+            "guid": "M>PjKT-u80", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wo ist die erwartete Spannung eines Galvanischen Elements ersichtlich?", 
+                "In der Elektrochemischen Spannungsreihe"
+            ], 
+            "flags": 0, 
+            "guid": "k%6d&kKPM,", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Primärelemente?", 
+                "Galvanische Primärelemente sind Spannungsquellen, die nicht aufgeladen werden können."
+            ], 
+            "flags": 0, 
+            "guid": "m3:q2xB_:4", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Sekundärelemente?", 
+                "Galvanische Sekundärelemente sind Spannungsquellen (Akkumulatoren), die aufgeladen werden können."
+            ], 
+            "flags": 0, 
+            "guid": "b=@NxY@R1=", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist die Kapazität eines galvanischen Elements?", 
+                "Die Kapazität K eines galvanischen Elements ist die entnehmbare Elektrizitätsmenge (Ladung Q) in Amperestunden (Ah)."
+            ], 
+            "flags": 0, 
+            "guid": "r]b8|FhZ~J", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Woraus besteht ein Bleiakkumulator?", 
+                "Aus einem mit verdünnter Schwefelsäure gefüllten Gefäß mit Bleiplatten."
+            ], 
+            "flags": 0, 
+            "guid": "vOP+.6$qv?", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie wird im Bleiakkumulator elektrische Energie gespeichert?", 
+                "In chemischer Energie."
+            ], 
+            "flags": 0, 
+            "guid": "GP=Oo8[WWo", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist Korrosion?", 
+                "Korrosion ist die Zerstörung eines Werkstoffes durch chemische und elektrochemische Vorgänge."
+            ], 
+            "flags": 0, 
+            "guid": "h`{R$KR6AZ", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist Kontaktkorrosion und wo tritt sie auf?", 
+                "Kontaktkorrosion ist eine Sonderform der elektrochemischen Korrosion und führt zu Zerstörung des beteiligten unedleren Metalls an der Austrittsstelle des Stromes (z.B. Übergang Kupfer- zu Aluleitungen)."
+            ], 
+            "flags": 0, 
+            "guid": "qt;/4nKi|1", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist Streustromkorrosion?", 
+                "Der Gleichstrom, der ein metallisches Teil durchfließt und in einen Elektrolyten austritt, zersetzt das Metall an der Austrittsstelle (Rückleitung des Straßenbahnstromes über das Erdreich und teilweise (Streuströme) über Wasser- und Gasrohre die dann korrodieren)."
+            ], 
+            "flags": 0, 
+            "guid": "z=h0JVZS5D", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter5"
             ]
         }
     ]
