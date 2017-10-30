@@ -60,6 +60,7 @@
         "06080113.gif", 
         "10060711.gif", 
         "06080111.gif", 
+        "Screen Shot 2017-10-30 at 09.54.03.png", 
         "latex-70fa5e64406d92c731b47b09c1d501572c8990d4.png", 
         "latex-d00de625712b86ec88452a58f2a30ad6730daa0a.png", 
         "latex-a59313ed8d0a86c53db5c6f27edbfd6e556b9b99.png", 
@@ -86,6 +87,7 @@
         "latex-7c440933d81b681656de9b20dc78801457fde9d3.png", 
         "latex-0cfc83e8844b862efc89401055a10ec05cfca3ed.png", 
         "latex-a7b5f6e49ce8ac00cc886c70ae4713fdee315990.png", 
+        "latex-7e236a9e31752c9007b992ebf74d3ad9c80212e0.png", 
         "latex-116965dce7f62a4825616eb2e9b63d45194c0d86.png", 
         "latex-602d81e7b8597a5c2c57a445d2d0ae68f9a3b568.png", 
         "latex-7472f06dc89734890ba714aa6cc19fce8acbea74.png", 
@@ -99,6 +101,7 @@
         "latex-e785bb7ea635e722061a32d95e618c78b4427a46.png", 
         "latex-7bb17a1ee341ec68a9775b9eef6980ec47af7d16.png", 
         "latex-8fcf0b10a68e406475abd407b11db14f4152ff37.png", 
+        "latex-d091d67adf124979203a69fbb42cabd7ca92fc6d.png", 
         "latex-f6fb4ff93428615e27a11361bda6947bbfbd9eec.png", 
         "latex-050e5b63875b1313ad8bffde4b3da52d12d1c00a.png", 
         "latex-1fe92bd4f804f5fea24526f1c59a4d7b8e902a9e.png", 
@@ -146,7 +149,8 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "chapter3"
+                "TODO", 
+                "chapter4"
             ], 
             "tmpls": [
                 {
@@ -1948,7 +1952,6 @@
             "guid": "Am+$V*k.8q", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
-                "TODO", 
                 "chapter2"
             ]
         }, 
@@ -2205,6 +2208,147 @@
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter3"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind 5 Arten der Spannungserzeugung?", 
+                "<div>Reibung</div><div>Wärme<div>Licht</div></div><div>chemisch</div><div>Verformung von Kristallen</div>"
+            ], 
+            "flags": 0, 
+            "guid": "k>Ac1K%{X7", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wo werden Thermoelemente angewandt?", 
+                "Temperaturmessung"
+            ], 
+            "flags": 0, 
+            "guid": "Evd@FxblXr", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wo werden chemische Spannungserzeuger angewandt?", 
+                "galvanische Elemente (Batterien, Akkus)\n<hr />\nprimär: Batterie <br />\nsekundär Akkumulator"
+            ], 
+            "flags": 0, 
+            "guid": "D(s|3]-Ves", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wo werden Fotoelemente angewandt?", 
+                "<div>Solarzellen</div>Sensoren"
+            ], 
+            "flags": 0, 
+            "guid": "bAMr[CACN>", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wo werden Piezo-Kristalle angewandt?", 
+                "Kristalltonabnehmer von Plattenspielern<div>Feuerzeuge, Gasanzünder</div><div>Druck- und Kraftmessern</div>"
+            ], 
+            "flags": 0, 
+            "guid": "c;Pxz9kZ/N", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wo wird Spannungserzeugung durch Induktion angewandt?", 
+                "Generatoren<div>Reedschalter</div>"
+            ], 
+            "flags": 0, 
+            "guid": "ddOojm^G}J", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Welches Verhältnis haben Quellenspannung und Klemmenspannung im Leerlauf?", 
+                "Klemmenspannung = Quellenspannung\n<hr />\n[$]U = U_{q}[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "F32pfH1<E8", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<span style=\"color: rgb(255, 255, 255)\">Warum geht bei der Belastung von Spannungserzeugern die Klemmenspanung zurück?</span>", 
+                "aufgrund des Innenwiderstandes des Spannungserzeugers"
+            ], 
+            "flags": 0, 
+            "guid": "i/H>30CFy}", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lässt sich der Innenwiderstand einer Spannungsquelle bestimmen?", 
+                "Messen von Leerlaufspannung (<i>U<sub>q</sub></i>), Klemmenspannung (<i>U</i>) bei Belastung und Belastungsstrom (<i>I</i>)<div><br /><div>[$]R_{i} = \\frac{U_{q} - U}{I}[/$]</div></div>\n<hr /><img src=\"Screen Shot 2017-10-30 at 09.54.03.png\" />\n"
+            ], 
+            "flags": 0, 
+            "guid": "hd``#@]Bd", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter4"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was versteht man unter Leistungsanpassung?", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "A^i$!^BJfH", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "TODO", 
+                "chapter4"
             ]
         }
     ]
