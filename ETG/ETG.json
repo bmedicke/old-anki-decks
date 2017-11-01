@@ -956,6 +956,20 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
+                "Anwedungsbeispiel: Lichtwirkung des Stroms", 
+                "Glühbirne<div>Leuchtstoffröhre</div><hr />Gase mit Leuchtwirkung: Neon, Argon, Quecksilberdampf"
+            ], 
+            "flags": 0, 
+            "guid": "Cgy63*fZE9", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
                 "Anwedungsbeispiel: magnetische Wirkung des Stroms", 
                 "Elektromotor<div>Lautsprecher</div><div>Mikrofon</div>"
             ], 
@@ -975,6 +989,20 @@
             ], 
             "flags": 0, 
             "guid": "GmUG[sy#*L", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Anwedungsbeispiel: Chemische Wirkung des Stroms", 
+                "Elektrolyse<div>Galvanisieren (electroplating)</div>\n<hr />elektrischer Strom zerlegt leitende Flüssigkeiten"
+            ], 
+            "flags": 0, 
+            "guid": "xlNb7HO/{n", 
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter1"
@@ -1041,7 +1069,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "Wie ist der elektrischen Widerstand definiert?", 
+                "Wie ist der elektrische Widerstand definiert?<div><br /></div>", 
                 "1 Ohm ist der Widerstand bei dem zwischen zwei Punkten eines Leiters bei 1 Volt Spannung 1 Ampere Stärke fließt"
             ], 
             "flags": 0, 
@@ -1618,6 +1646,20 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
+                "An welchen Widerstand fällt bei einer Reihenschaltung die größte Spannung ab?", 
+                "an den größten Widerstand"
+            ], 
+            "flags": 0, 
+            "guid": "A>2<4Q27@u", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
                 "Was versteht man unter einem Ersatzwiderstand?", 
                 "Gesamtwiderstand<div>Summe aller Teilwiderstände</div>"
             ], 
@@ -2165,48 +2207,6 @@
             "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
             "tags": [
                 "chapter3"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Anwedungsbeispiel: Lichtwirkung des Stroms", 
-                "Glühbirne<div>Leuchtstoffröhre</div><hr />Gase mit Leuchtwirkung: Neon, Argon, Quecksilberdampf"
-            ], 
-            "flags": 0, 
-            "guid": "Cgy63*fZE9", 
-            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "tags": [
-                "chapter1"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Anwedungsbeispiel: Chemische Wirkung des Stroms", 
-                "Elektrolyse<div>Galvanisieren (electroplating)</div>\n<hr />elektrischer Strom zerlegt leitende Flüssigkeiten"
-            ], 
-            "flags": 0, 
-            "guid": "xlNb7HO/{n", 
-            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "tags": [
-                "chapter1"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "An welchen Widerstand fällt bei einer Reihenschaltung die größte Spannung ab?", 
-                "an den größten Widerstand"
-            ], 
-            "flags": 0, 
-            "guid": "A>2<4Q27@u", 
-            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
-            "tags": [
-                "chapter2"
             ]
         }, 
         {
