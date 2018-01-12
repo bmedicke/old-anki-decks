@@ -1,0 +1,444 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "65d53307-f76c-11e7-9c51-9a00d8d27501", 
+    "deck_config_uuid": "bc8d2638-b707-11e7-92be-d49a20d0d551", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "bc8d2638-b707-11e7-92be-d49a20d0d551", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    3, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 200, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "latex-0866073f7d223118f1b01b66a45762acaadc0a7e.png", 
+        "latex-a001b8d797e72cd97c0ecc13dd72e4593074dbc5.png", 
+        "latex-e57e55833ecb871775ab5079518d8bdeffcd75d6.png", 
+        "latex-a2533ba5a13a66d8ac14c29c30d83fe7501bb527.png", 
+        "latex-9f688693315f728697e42351ad2f5c21701f118b.png", 
+        "latex-be254f2d11fb13735535de093aa7f5ee2217450a.png", 
+        "latex-434f8545d7cb9afe04871633c1da1e10ec7e65ea.png", 
+        "latex-229edf1909e2c9dd4bce976b1c7d08f797fc9daa.png", 
+        "latex-417ecb45273008dede363184288eebcd633a1dfb.png", 
+        "latex-6f71c815031fa46195a0162864598ab701f7d83b.png", 
+        "latex-64481fae26eeee03f90fb8c08e198e4f92232262.png", 
+        "latex-984cba1be57d2ccfbd9d4a91b16c168c46bedaf9.png", 
+        "latex-ac7bc9a474da345517de3b0905cb2497ffe6721c.png", 
+        "latex-8e67b25493f5449d0d95f9c5cecc1ed5e38407d8.png", 
+        "latex-8aa3dd1e57e27bdf20d7ad140cb24b3aa95fba16.png", 
+        "latex-b05960f04fdd0395fe96161e446e1e637d413b1e.png", 
+        "latex-0ce6e7426244ad8e6b9537835acaaca8bdea503c.png", 
+        "latex-9b0bf315045e58749827f61f04ed7d1acf79d6c4.png", 
+        "latex-2bfec9eddf7bd291be9ec9f26b98e19c78ce15dc.png", 
+        "latex-91f93fbf46ac10227baee2383eccf7428324ccb1.png", 
+        "latex-8bc88dc5bcf95e848a8612f82db37ef28ddeefbc.png", 
+        "latex-8537b57d3495c2e96131682cd8845d2fb276b007.png", 
+        "latex-0870036a6212e1659fd2199dad5ca1cea17a1b06.png", 
+        "latex-853c81bad92249eea130e56fc770a25de739764a.png", 
+        "latex-89af701ee1412729139de55adc790f423b67d99a.png", 
+        "latex-9bbf2a89fe36bd78398275cd75471aea597be039.png", 
+        "latex-1c262a4214e38ed97345f7ff1df3b07b67ed95e4.png", 
+        "latex-bf87f3611101950295b3a407387621b5a99da5a4.png", 
+        "latex-9ca2205263129d691df0dcc7eae530b6364d45cd.png", 
+        "latex-b591f52cc6fa303e1fb23a3694645b168ac14abf.png", 
+        "latex-4216275ea9cbcb8ae11dd9bf9bba2adfea6d76ac.png", 
+        "latex-a3d918ab4156f4c864dcf99b71ed40f7a750dd8c.png", 
+        "latex-ff8e5cc53869a29b1aca8b28b6fe50a1394d3539.png", 
+        "latex-a7a3628eb4c34740f9a4612fb24ae41d3b24fac8.png", 
+        "latex-af277e93e6ab5c39e1c9aec63f62351aa5432a9f.png"
+    ], 
+    "name": "ETG2", 
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\ntd {\ntext-align: left;\npadding-right: 15px;\n}\n\ntable {\nmargin: auto;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage[ngerman]{babel}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer color=black>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Durchflutung?", 
+                "[$]\\theta = I * N[/$]<div><br /></div><div>Theta [Ampere] = Strom * Windung</div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "fbzVCAE^Eb", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel für die magnetische Feldstärke?", 
+                "[$]H=\\frac{\\Theta}{l}[/$]<div><br /></div><div>[$]Magnetische Feldstarke [A] = \\frac{mittlere Feldlinienlange[m]}{magnetische Feldstarke[A/m]}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "QV[w^U3uqM", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel für magnetische Flussdichte?", 
+                "[$]B = \\frac{\\phi}{A}[/$]<div><br /></div><div>[$]mag. Flussdichte [T] = \\frac{mag. Fluss[Wb]}{Querschnittflaeche[m^2]}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Q{5cF~xX0`", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was sind Weber?", 
+                "[$]1 Wb = 1Vs[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "g,mBiV7(q|", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist die Permeabilität?", 
+                "Permeabilität ist die magnetische Leitfähigkeit<div>&lt;hr&gt;</div><div>Eisen, Kobalt, Nickel: gut</div><div>Rest: schlecht</div>"
+            ], 
+            "flags": 0, 
+            "guid": "bu2I|2&:rm", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel des magnetischen Widerstandes?", 
+                "[$]R_{m} = \\frac{l}{\\mu*A}[/$]<div><br /></div><div>[$]magnetischer Widerstandes = \\frac{mittlere Feldlinienlaenge[m]}{Permeabilitaet[Vs/Am] * Querschnittflaeche [m^2]}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "O~bLh<fJ@.", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die magnetische Feldkonstante?", 
+                "[$]\\mu_0 = 1.257 * 10^{-6}[/$]<div><br /></div><div>[$]\\mu_0 = 4\\pi * 10^{-7}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Ofd?2YtJtZ", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel für magnetische Flussdichte in Luft/Vakuum?", 
+                "[$]B = \\mu_0 * H[/$]<div><br /></div><div>[$]magnetische Flussdichte [T] = magnet. Feldkonstante * magnetische Feldstaerke [A/m][/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "I,DeoMhQk6", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel für magnetische Flussdichte in allen anderen Stoffen?", 
+                "[$]B = \\mu_0 * \\mu_r * H[/$]<div><br /></div><div>[$]magnetische Flussdichte [T] = Permeabilitaetszahl * magnet. Feldkonstante * magnetische Feldstaerke [A/m][/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "M(vk&0d?Zr", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Zugkraft?", 
+                "[$]F = 40 * B^2 * A[/$]<div><br /></div><div>[$]Zugkraft = 40 * Magnetflussdichte im Luftspalt [T(Vs/m^2)][/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "CGrKW]g02O", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Ablenkkraft?", 
+                "[$]F = B * l * I[/$]<div><br /></div><div>[$]Ablenkkraft [N] = magnet. Flussdichte [T](Vs/m^2) * Stromstaerke * wirksame Leiterlaenge[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "M}f8MMetcX", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Kraft (magnet.)?", 
+                "[$]F = 0.2 * I_1 * I_2 * \\frac{l}{a} * 10^{-6}[/$]<div><br /></div><div>[$]Kraft [N] = 0.2 * Stromstaerke 1 [A] * Stromstaerke 2 [A] * \\frac{wirksame Leiterlaenge[m]}{Leiterabstand[m]}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "pRDWN7rIz%", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter6"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel für die elektrische Feldstärke?", 
+                "[$]E = \\frac{U}{l}[/$]<div><br /></div><div>[$]elektrische Feldstaerke [V/m] = \\frac{elektrische Spannung [V]}{Plattenabstand [m]}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "m!L:[W@&wr", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter7"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Ladungsmenge?", 
+                "[$]Q = C * U[/$]<div><br /></div><div>[$]Ladung[C(As)] = Kapazitaet [F(As/V)] * Spannung [V][/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "xTQXm52k8/", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter7"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie Lautet die Formel der Kapazität?", 
+                "[$]C = 0.0885 * \\epsilon * \\frac{A}{d}[/$]<div><br /></div><div>[$]Kapazitaet [pF] = Kapazitaetskonstante * Dielektrizitaetszahl * \\frac{Plattenflaeche[cm^2]}{Plattenabstand[cm]} [/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "B96#Qyi~K;", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": [
+                "chapter7"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie viel Grad sind 1 Radiant?", 
+                "knapp 60°"
+            ], 
+            "flags": 0, 
+            "guid": "L<L>ko5fO2", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Augenblickspannung?", 
+                "[$]u = \\hat{u} * sin * \\alpha[/$]<div><br /></div><div>[$]Augenblickspannung [V] = Scheitelspannung [V] * sin * Drehwinkels[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "n&:Eu{`)ib", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Was ist ein Hertz?", 
+                "[$]1Hz = 1/s[/$]<div><br /></div><div>Eine Schwingung pro Sekunde</div>"
+            ], 
+            "flags": 0, 
+            "guid": "fMk1xs@]s`", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Frequenz?", 
+                "[$]f = \\frac{1}{T}[/$]<div><br /></div><div>[$]Frequenz[Hz] = \\frac{1}{Periodendauer[s]}[/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "uq6I!z78MG", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Kreisfrequenz?", 
+                "[$]\\omega = 2 * \\pi * f[/$]<div><br /></div><div>[$]Kreisfrequenz = 6.28 * Frequenz[Hz(1/s)][/$]</div>"
+            ], 
+            "flags": 0, 
+            "guid": "lW4vcr!mcv", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel des Gleichrichtwertes bei sinusförmigem Wechselstrom?", 
+                "[$]|\\bar{i}| = 0.637 * \\hat{i}[/$]<div><br /></div><div>Sinus Integrieren!</div><div><br /></div><div>325V vs. 220V</div>"
+            ], 
+            "flags": 0, 
+            "guid": "bj}helDa=!", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Wie lautet die Formel der Wärmearbeit?", 
+                "[$]W = I^2 * R * t[/$]"
+            ], 
+            "flags": 0, 
+            "guid": "gN]+C_$>g$", 
+            "note_model_uuid": "bc8d36b3-b707-11e7-bb41-d49a20d0d551", 
+            "tags": []
+        }
+    ]
+}
